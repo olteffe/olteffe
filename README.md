@@ -27,8 +27,9 @@ I’m beginner backend developer.
 
 ## My opensource projects
 
-*   [a](https://github.com/javarushcommunity/javarush-telegrambot) - c
-
+*   [stepik](https://github.com/olteffe/stepik) - my first project. You can get a free license for godlike IDE.
+*   [pytest-ru](https://github.com/olteffe/pytest-ru) - unofficial [pytest](https://github.com/pytest-dev/pytest) documentation.
+*   [avitochat](https://github.com/olteffe/avitochat) and [avitoad](https://github.com/olteffe/avitoad) - Avito's test tasks for back-end trainee.
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/olteffe/github-profile-views-counter">
