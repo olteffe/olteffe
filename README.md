@@ -19,11 +19,11 @@ I’m beginner backend developer.
 
 
 ## 🛠 Technologies & Tools
-![Golang](https://img.shields.io/badge/-Golang-003f5c?style=for-the-badge&logo=go)
-![Python](https://img.shields.io/badge/-Python-003f5c?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-003f5c?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-003f5c?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/-Git-003f5c?style=for-the-badge&logo=git)
+![Golang](https://img.shields.io/badge/-Golang-gray?style=for-the-badge&logo=go)
+![Python](https://img.shields.io/badge/-Python-gray?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-gray?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-gray?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=git)
 
 ## My opensource projects
 
@@ -31,8 +31,16 @@ I’m beginner backend developer.
 *   [pytest-ru](https://github.com/olteffe/pytest-ru) - unofficial [pytest](https://github.com/pytest-dev/pytest) documentation.
 *   [avitochat](https://github.com/olteffe/avitochat) and [avitoad](https://github.com/olteffe/avitoad) - Avito's test tasks for back-end trainee.
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/olteffe/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=olteffe&color=blue">
-   </a>
-</div>
+<br><br>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/olteffe/olteffe?style=flat-square&color=blue&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/years/olteffe?style=flat-square&color=blue&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/repos/olteffe?style=flat-square&color=blue&logo=github">
+  </a>
+    <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/commits/monthly/olteffe?style=flat-square&color=blue&logo=github">
+  </a>
