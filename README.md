@@ -41,6 +41,3 @@ I’m beginner backend developer.
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/repos/olteffe?style=flat-square&color=blue&logo=github">
   </a>
-    <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/olteffe?style=flat-square&color=blue&logo=github">
-  </a>
